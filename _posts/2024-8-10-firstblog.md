@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello people"
+title:      "大家好，我是少年帅哒"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2024-08-10 19:23:00
 author:     "少年帅哒"
