@@ -7,7 +7,7 @@ author:     "少年帅哒"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 第一
+    - blog
 ---
 
 > “第一篇博客诞生了. ”
