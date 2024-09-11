@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "天翼云重装Linux系统"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"电脑秒变服务器\""
 date:       2024-09-11 12:00:00
 author:     "少年帅哒"
 header-img: "img/post-bg-2015.jpg"
